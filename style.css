@@ -1,12 +1,8 @@
-body {
-background-image: url("2.jpeg");
+body{
+    background-image: url("2.jpeg");
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    min-height: 100vh;
-    margin: 0;
-    padding: 0;
+    background-size: 1300px 900px;
+
 }
 .na{ 
 }
