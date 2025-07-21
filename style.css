@@ -1,0 +1,22 @@
+body {
+    background-image: url("2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.na{ 
+}
+.nav ul{
+
+    
+    display: flex;
+    list-style: none;
+    
+
+}
+.nav li{
+    padding: 14px;
+}
+.nav a{
+    color: white;
+}
